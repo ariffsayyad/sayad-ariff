@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap');
 
 *{
@@ -19,7 +19,7 @@ body{
   background: #f7f7f7;
   font-family: 'Poppins', sans-serif;
 }
- 
+
 *::selection{
   background: #2b3dda;
   color: #fff;
@@ -186,7 +186,7 @@ header .navbar ul li a:hover{
   background-color: inherit;
   width: 50%;
 }
-/*circles on timeline*/
+/circles on timeline/
 .experience .container::after {    
   content: "\f0b1";
   position: absolute;
@@ -464,4 +464,3 @@ header .navbar ul li a:hover{
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
- */
