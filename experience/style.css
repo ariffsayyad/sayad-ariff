@@ -186,7 +186,7 @@ header .navbar ul li a:hover{
   background-color: inherit;
   width: 50%;
 }
-/circles on timeline/
+/*circles on timeline*/
 .experience .container::after {    
   content: "\f0b1";
   position: absolute;
