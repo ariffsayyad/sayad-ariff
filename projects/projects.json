@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Coffee Shop",
+    "desc": "Coffee Shop website built using HTML, CSS, uiux, auto la and jQuery.",
+    "image": "coffeeshop",
+    "category": "design",
+    "links": {
+      "view": "https://www.figma.com/community/file/1374998758735095480/coffee-shop-website",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  },
+  {
+    "name": "Campus Connect App Design",
+    "desc": "Campus Connect App design built using HTML, CSS, uiux, auto la and jQuery.",
+    "image": "campus connect App",
+    "category": "design",
+    "links": {
+      "view": "https://www.figma.com/community/file/1375000644308189884/campus-connect-app",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  },
+  {
+    "name": "Jaldi 5 App design",
+    "desc": "Jaldi 5 App design its a game design app in figma about illusartions is going its my future project.",
+    "image": "jaldi5",
+    "category": "design",
+    "links": {
+      "view": "https://www.figma.com/community/file/1375003173589920448/jaldi-5-app-design",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  },
+  {
+    "name": "Parul University App UIUX design",
+    "desc": "Parul university app design in figma.",
+    "image": "paruluniversity",
+    "category": "App Design",
+    "links": {
+      "view": "https://www.figma.com/community/file/1375035230242215650/parul-app-design",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  },
+  {
+    "name": "TNM StartUp Website Design",
+    "desc": "It's an Web Design which uses web view component for displaying content. This on web provides many different features.",
+    "image": "TNM",
+    "category": "Web Design",
+    "links": {
+      "view": "https://www.figma.com/community/file/1375039827938038502/tnm-start-up",
+      "code": "https://github.com/ariffsayyad/portfolio-website"
+    }
+  }
+]
