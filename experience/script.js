@@ -65,7 +65,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Ariff sayyad";
+        document.title = "Experience | Portfolio Jigar Sable";
         $("#favicon").attr("href","/assets/images/favicon.png");
     }
     else {
